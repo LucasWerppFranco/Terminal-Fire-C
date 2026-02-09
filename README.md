@@ -24,3 +24,11 @@
 This project was made by me in my vocation to train my C skills.
 
 The purpose of this repository is train to made some another feature to my future 3D game in C, and make some low memory usage to my applications.
+
+```
+gcc main.c -o doom_fire
+./doom_fire
+
+```
+```
+```

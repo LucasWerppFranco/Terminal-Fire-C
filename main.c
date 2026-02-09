@@ -3,7 +3,7 @@
 #include <unistd.h>
 #include <time.h>
 
-#define WIDTH 100
+#define WIDTH 103
 #define HEIGHT 20
 
 int fire[HEIGHT][WIDTH];
